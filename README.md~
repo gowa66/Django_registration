@@ -1,5 +1,6 @@
 Installation
 
+
 You need to install virtualenv and then activate it:
 
 pip install virtualenv
@@ -15,7 +16,5 @@ To start the project you need to run Django development server:
 
 python manage.py runserver
 
-
 http://127.0.0.1:8000/
-
 
